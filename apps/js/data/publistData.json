@@ -2,21 +2,21 @@
     { 
         "pop": false,
         "name": "대량정제 매니지먼트",
-        "link": "./newmp-HTML/index.html",
+        "link": "https://jibros.github.io/newmp-HTML/list.html",
         "date": "2022.11 ~ 진행중",
         "note": ""
     },
     { 
         "pop": false,
         "name": "면사랑 누들파스타",
-        "link": "./noodleloverslp-HTML/pasta/",
+        "link": "https://jibros.github.io/noodleloverslp-HTML/pasta/",
         "date": "2022.10",
         "note": ""
     },
     { 
         "pop": false,
         "name": "온이미지",
-        "link": "./onimage_pf-HTML/intro.html",
+        "link": "https://jibros.github.io/onimage_pf-HTML/intro.html",
         "date": "2022.10",
         "note": ""
     },
@@ -30,21 +30,21 @@
     { 
         "pop": false,
         "name": "효성 CMS 매뉴얼북",
-        "link": "./hyosungCMS-HTML/",
+        "link": "https://jibros.github.io/hyosungCMS-HTML/",
         "date": "2022.06 ~ 07",
         "note": ""
     },
     { 
         "pop": false,
         "name": "광화문 해치마당 (한/영) - 아쿠아리움",
-        "link": "./gwanghwa-haechi-madang-HTML/src/aquarium/",
+        "link": "https://jibros.github.io/gwanghwa-haechi-madang-HTML/src/aquarium/",
         "date": "2022.05 ~ 06",
         "note": ""
     },
     { 
         "pop": false,
         "name": "광화문 해치마당 (한/영) - 폴라로이드",
-        "link": "./gwanghwa-haechi-madang-HTML/src/polaroid/",
+        "link": "https://jibros.github.io/gwanghwa-haechi-madang-HTML/src/polaroid/",
         "date": "2022.05 ~ 06",
         "note": ""
     },
@@ -54,5 +54,110 @@
         "link": "https://myrrors.io/",
         "date": "2022.01(phase1), 2022.06(phase2)",
         "note": ""
+    },
+    { 
+        "pop": false,
+        "name": "K-COMICS 청년 장애인 웹툰 아카데미",
+        "link": "https://jibros.github.io/k-comics-disabled-HTML",
+        "date": "2021.12",
+        "note": ""
+    },
+    { 
+        "pop": false,
+        "name": "광화벽화 - 디지털 퍼레이드",
+        "link": "https://digitalparade.gwanghwasidae.kr/",
+        "date": "2021.12",
+        "note": ""
+    },
+    { 
+        "pop": false,
+        "name": "종근당 코어틴 이벤트 페이지",
+        "link": "https://jibros.github.io/coretein-event-HTML/",
+        "date": "2021.07",
+        "note": ""
+    },
+    { 
+        "pop": false,
+        "name": "메디폼(카페24 쇼핑몰)",
+        "link": "https://medifoamshop.co.kr/index.html",
+        "date": "2021.07",
+        "note": ""
+    },
+    { 
+        "pop": false,
+        "name": "IAEA 원자력 협력재단 소개 Phase1",
+        "link": "https://k-ne.co.kr/",
+        "date": "2021.06 ~ 10",
+        "note": ""
+    },
+    { 
+        "pop": false,
+        "name": "Seventh Generation 이벤트 페이지",
+        "link": "https://jibros.github.io/seventh-generation-HTML/",
+        "date": "2021.06",
+        "note": ""
+    },
+    { 
+        "pop": false,
+        "name": "데이탑(Datop)",
+        "link": "https://www.datop.or.kr/cmm/mainView.do",
+        "date": "2021.05 ~ 06",
+        "note": ""
+    },
+    { 
+        "pop": false,
+        "name": "에누리닷컴 PC",
+        "link": "http://www.enuri.com/",
+        "date": "2016.11 ~ 2022.08",
+        "note": "적응형, 개편(2020.08, 2021.10, 2022.05)"
+    },
+    { 
+        "pop": false,
+        "name": "에누리닷컴 M",
+        "link": "http://m.enuri.com/m/",
+        "date": "2016.11 ~ 2022.08",
+        "note": "적응형, 개편(2020.04, 2021.10)"
+    },
+    { 
+        "pop": false,
+        "name": "에누리닷컴 - 해외직구 PC",
+        "link": "http://www.enuri.com/global/",
+        "date": "2019.04 ~ 05",
+        "note": "적응형"
+    },
+    { 
+        "pop": false,
+        "name": "에누리닷컴 - 해외직구 Mobile",
+        "link": "http://m.enuri.com/global/m/",
+        "date": "2019.04 ~ 05",
+        "note": "적응형"
+    },
+    { 
+        "pop": false,
+        "name": "에누리닷컴 - 자동차 가격비교 PC",
+        "link": "http://auto.enuri.com/model",
+        "date": "2021.03 ~ 2022.08",
+        "note": "참여율 : 30%, 구축 초기 가이드 설정 배포 후 유지보수 운영"
+    },
+    { 
+        "pop": false,
+        "name": "에누리닷컴 - 자동차 가격비교 Mobile",
+        "link": "http://auto.enuri.com/m/car",
+        "date": "2021.03 ~ 2022.08",
+        "note": "참여율 : 10%, 구축 초기 가이드 설정 배포 후 유지보수 운영"
+    },
+    { 
+        "pop": false,
+        "name": "에누리닷컴 - 쇼핑지식 PC/Mobile",
+        "link": "http://www.enuri.com/knowcom/index.jsp",
+        "date": "2017.10",
+        "note": "참여율 : 60%, 구축 초기 가이드 설정 배포 후 유지보수 운영"
+    },
+    { 
+        "pop": false,
+        "name": "에누리닷컴 - UI가이드 제작",
+        "link": "",
+        "date": "2017.05",
+        "note": "참여율 : 100%, 리뉴얼 및 운영 유지보수 가이드 배포"
     }
 ]

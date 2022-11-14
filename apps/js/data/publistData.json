@@ -1,0 +1,58 @@
+[
+    { 
+        "pop": false,
+        "name": "대량정제 매니지먼트",
+        "link": "./newmp-HTML/index.html",
+        "date": "2022.11 ~ 진행중",
+        "note": ""
+    },
+    { 
+        "pop": false,
+        "name": "면사랑 누들파스타",
+        "link": "./noodleloverslp-HTML/pasta/",
+        "date": "2022.10",
+        "note": ""
+    },
+    { 
+        "pop": false,
+        "name": "온이미지",
+        "link": "./onimage_pf-HTML/intro.html",
+        "date": "2022.10",
+        "note": ""
+    },
+    { 
+        "pop": false,
+        "name": "IAEA 원자력 협력재단 소개 Phase2",
+        "link": "https://k-ne.co.kr/",
+        "date": "2022.07 ~ 10",
+        "note": ""
+    },
+    { 
+        "pop": false,
+        "name": "효성 CMS 매뉴얼북",
+        "link": "./hyosungCMS-HTML/",
+        "date": "2022.06 ~ 07",
+        "note": ""
+    },
+    { 
+        "pop": false,
+        "name": "광화문 해치마당 (한/영) - 아쿠아리움",
+        "link": "./gwanghwa-haechi-madang-HTML/src/aquarium/",
+        "date": "2022.05 ~ 06",
+        "note": ""
+    },
+    { 
+        "pop": false,
+        "name": "광화문 해치마당 (한/영) - 폴라로이드",
+        "link": "./gwanghwa-haechi-madang-HTML/src/polaroid/",
+        "date": "2022.05 ~ 06",
+        "note": ""
+    },
+    { 
+        "pop": false,
+        "name": "DGSR 회사 소개",
+        "link": "https://myrrors.io/",
+        "date": "2022.01(phase1), 2022.06(phase2)",
+        "note": ""
+    },
+]

@@ -106,13 +106,6 @@
     },
     { 
         "pop": false,
-        "name": "에누리닷컴 - UI가이드 제작",
-        "link": "",
-        "date": "2017.05",
-        "note": "참여율 : 100%, 리뉴얼 및 운영 유지보수 가이드 배포"
-    },
-    { 
-        "pop": false,
         "name": "종근당 코어틴 이벤트 페이지",
         "link": "/coretein-event-HTML/",
         "date": "",

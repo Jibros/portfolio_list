@@ -1,20 +1,6 @@
 [
     { 
         "pop": false,
-        "name": "대량정제 매니지먼트",
-        "link": "https://jibros.github.io/newmp-HTML/list.html",
-        "date": "2022.11 ~ 진행중",
-        "note": ""
-    },
-    { 
-        "pop": false,
-        "name": "면사랑 누들파스타",
-        "link": "https://jibros.github.io/noodleloverslp-HTML/pasta/",
-        "date": "2022.10",
-        "note": ""
-    },
-    { 
-        "pop": false,
         "name": "온이미지",
         "link": "https://jibros.github.io/onimage_pf-HTML/",
         "date": "2022.10",
@@ -53,6 +39,13 @@
         "name": "IAEA 원자력 협력재단 소개 Phase2",
         "link": "https://k-ne.co.kr/",
         "date": "2022.08 ~ 10",
+        "note": ""
+    },
+    { 
+        "pop": false,
+        "name": "에누리 대량등록 관리 - 대량정제(NEWMP) 매니지먼트",
+        "link": "https://jibros.github.io/newmp-HTML/list.html",
+        "date": "2021.02 ~ 2022.08",
         "note": ""
     },
     { 

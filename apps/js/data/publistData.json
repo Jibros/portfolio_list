@@ -74,49 +74,49 @@
         "name": "에누리닷컴 PC",
         "link": "http://www.enuri.com/",
         "date": "2016.11 ~ 2022.08",
-        "note": "적응형, 개편(2020.08, 2021.10, 2022.05)"
+        "note": ""
     },
     { 
         "pop": false,
         "name": "에누리닷컴 M",
         "link": "http://m.enuri.com/m/",
         "date": "2016.11 ~ 2022.08",
-        "note": "적응형, 개편(2020.04, 2021.10)"
+        "note": ""
     },
     { 
         "pop": false,
         "name": "에누리닷컴 - 해외직구 PC",
         "link": "http://www.enuri.com/global/",
         "date": "2019.04 ~ 05",
-        "note": "적응형"
+        "note": ""
     },
     { 
         "pop": false,
         "name": "에누리닷컴 - 해외직구 Mobile",
         "link": "http://m.enuri.com/global/m/",
         "date": "2019.04 ~ 05",
-        "note": "적응형"
+        "note": ""
     },
     { 
         "pop": false,
         "name": "에누리닷컴 - 자동차 가격비교 PC",
-        "link": "서비스 종료",
+        "link": "",
         "date": "2021.03 ~ 2022.08",
-        "note": "참여율 : 30%, 구축 초기 가이드 설정 배포 후 유지보수 운영"
+        "note": "서비스 종료"
     },
     { 
         "pop": false,
         "name": "에누리닷컴 - 자동차 가격비교 Mobile",
-        "link": "서비스 종료",
+        "link": "",
         "date": "2021.03 ~ 2022.08",
-        "note": "참여율 : 10%, 구축 초기 가이드 설정 배포 후 유지보수 운영"
+        "note": "서비스 종료"
     },
     { 
         "pop": false,
         "name": "에누리닷컴 - 쇼핑지식 PC/Mobile",
         "link": "http://www.enuri.com/knowcom/index.jsp",
         "date": "2017.10",
-        "note": "참여율 : 60%, 구축 초기 가이드 설정 배포 후 유지보수 운영"
+        "note": ""
     },
     { 
         "pop": false,

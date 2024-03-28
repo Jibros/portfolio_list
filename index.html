@@ -5,7 +5,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>포트폴리오 목록 페이지</title>
+    <title>UI 개발자 지승호 포트폴리오 목록</title>
     <meta name="description" content="프리랜서 지승호의 포트폴리오 목록 페이지 입니다."/>
     <meta name="keywords" content="웹퍼블리셔, UI개발자, 프론트엔드개발자, FE, 프리랜서, HTML, CSS, SCSS, JavaScript, ES6, Figma, Zeplin 등." />
     <meta name="author" content="Seungho Ji" />
@@ -106,7 +106,7 @@
                             </tbody>
                         </table>
 
-                        <p class="tx_msg">이 외 과거 포트폴리오는 <a href="http://jibro.dothome.co.kr/wordpress/category/portfolios/" target="_blank">해당 링크</a> 에서 확인 가능합니다.</p>
+                        <!-- <p class="tx_msg">이 외 과거 포트폴리오는 <a href="http://jibro.dothome.co.kr/wordpress/category/portfolios/" target="_blank">해당 링크</a> 에서 확인 가능합니다.</p> -->
                     </div>
                 </div>
             </div>
@@ -145,6 +145,8 @@
                             <td></td>
                         </tr>
                         `
+
+                        console.log(list[i].link)
                         tableTr.append(html)
                     }else{ // 팝업 경로
                         html = `

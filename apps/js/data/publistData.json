@@ -100,7 +100,6 @@
     { 
         "pop": false,
         "name": "에누리닷컴 - 자동차 가격비교 PC",
-        // "link": "http://auto.enuri.com/model",
         "link": "서비스 종료",
         "date": "2021.03 ~ 2022.08",
         "note": "참여율 : 30%, 구축 초기 가이드 설정 배포 후 유지보수 운영"
@@ -108,7 +107,6 @@
     { 
         "pop": false,
         "name": "에누리닷컴 - 자동차 가격비교 Mobile",
-        // "link": "http://auto.enuri.com/m/car",
         "link": "서비스 종료",
         "date": "2021.03 ~ 2022.08",
         "note": "참여율 : 10%, 구축 초기 가이드 설정 배포 후 유지보수 운영"

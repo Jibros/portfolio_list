@@ -144,7 +144,7 @@
                         <tr>
                             <th scope="row" class="text-center">${i+1}</th>
                             <td>${list[i].name}</td>
-                            ${ list[i].link ? <td><a href="${list[i].link}" target="_blank">바로가기</a> <i class="bi bi-box-arrow-up-right"></i></td> : <td>-</td> }
+                            ${ list[i].link ? `<td><a href="${list[i].link}" target="_blank">바로가기</a> <i class="bi bi-box-arrow-up-right"></i></td>` : `<td>-</td>` }
                             <td>${list[i].date}</td>
                             <td>${list[i].note}</td>
                         </tr>

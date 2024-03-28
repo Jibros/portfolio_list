@@ -9,14 +9,14 @@
     { 
         "pop": false,
         "name": "한스타일 'NEXT' 개편",
-        "link": "",
+        "link": "/portfolio_list/src/leenhan/next/",
         "date": "2023.01 ~ 2024.04",
         "note": ""
     },
     { 
         "pop": false,
         "name": "한스타일 '셀러어드민' 개편",
-        "link": "",
+        "link": "/portfolio_list/src/leenhan/admin/",
         "date": "2023.01 ~ 2024.04",
         "note": ""
     },

@@ -13,7 +13,6 @@
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
 
     <!-- WEBFONT -->
     <link rel="stylesheet" href="./apps/css/webfont.css">
@@ -145,11 +144,7 @@
                         <tr>
                             <th scope="row" class="text-center">${i+1}</th>
                             <td>${list[i].name}</td>
-                        ${ list[i].link ?
-                            <td><a href="${list[i].link}" target="_blank">바로가기</a> <i class="bi bi-box-arrow-up-right"></i></td> 
-                            : 
-                            <td>-</td> 
-                        }
+                            ${ list[i].link ? <td><a href="${list[i].link}" target="_blank">바로가기</a> <i class="bi bi-box-arrow-up-right"></i></td> : <td>-</td> }
                             <td>${list[i].date}</td>
                             <td>${list[i].note}</td>
                         </tr>

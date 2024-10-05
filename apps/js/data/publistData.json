@@ -2,9 +2,9 @@
     { 
         "pop": false,
         "name": "한스타일",
-        "link": "https://shop.ihanstyle.com/",
+        "link": "",
         "date": "2023.01 ~ 2024.04",
-        "note": ""
+        "note": "2024년 8월 서비스 종료"
     },
     { 
         "pop": false,
@@ -136,6 +136,48 @@
         "pop": false,
         "name": "데이탑(Datop)",
         "link": "https://www.datop.or.kr/cmm/mainView.do",
+        "date": "",
+        "note": ""
+    },
+    { 
+        "pop": false,
+        "name": "아세아시멘트",
+        "link": "https://www.asiacement.co.kr/",
+        "date": "2015.05 ~ 12",
+        "note": ""
+    },
+    { 
+        "pop": false,
+        "name": "아세아홀딩스",
+        "link": "https://www.asiaholdings.co.kr/",
+        "date": "2015.05 ~ 12",
+        "note": ""
+    },
+    { 
+        "pop": false,
+        "name": "토프레소(topresso)",
+        "link": "http://www.topresso.com/",
+        "date": "2015.05 ~ 12",
+        "note": ""
+    },
+    { 
+        "pop": false,
+        "name": "굿모닝계측기",
+        "link": "https://www.hitouch.co.kr/",
+        "date": "",
+        "note": ""
+    },
+    { 
+        "pop": false,
+        "name": "애니톡",
+        "link": "http://xn--9i1bp66a62i.com/",
+        "date": "",
+        "note": ""
+    },
+    { 
+        "pop": false,
+        "name": "대덕인재개발원",
+        "link": "http://www.ddit.or.kr/",
         "date": "",
         "note": ""
     }

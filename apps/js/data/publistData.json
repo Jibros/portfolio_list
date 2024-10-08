@@ -71,15 +71,8 @@
     },
     { 
         "pop": false,
-        "name": "에누리닷컴 PC",
+        "name": "에누리닷컴",
         "link": "http://www.enuri.com/",
-        "date": "2016.11 ~ 2022.08",
-        "note": ""
-    },
-    { 
-        "pop": false,
-        "name": "에누리닷컴 M",
-        "link": "http://m.enuri.com/m/",
         "date": "2016.11 ~ 2022.08",
         "note": ""
     },
@@ -169,6 +162,27 @@
     },
     { 
         "pop": false,
+        "name": "만석닭강정",
+        "link": "https://www.mansuk.kr/main/main.asp",
+        "date": "",
+        "note": ""
+    },
+    { 
+        "pop": false,
+        "name": "캡스시스템",
+        "link": "http://keps119.com/",
+        "date": "",
+        "note": ""
+    },
+    { 
+        "pop": false,
+        "name": "벽제갈비",
+        "link": "https://www.bjgalbi.com/",
+        "date": "",
+        "note": ""
+    },
+    { 
+        "pop": false,
         "name": "애니톡",
         "link": "http://xn--9i1bp66a62i.com/",
         "date": "",
@@ -178,6 +192,13 @@
         "pop": false,
         "name": "대덕인재개발원",
         "link": "http://www.ddit.or.kr/",
+        "date": "",
+        "note": ""
+    },
+    { 
+        "pop": false,
+        "name": "나노시스템",
+        "link": "http://nanosystemz.com/",
         "date": "",
         "note": ""
     }

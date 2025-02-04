@@ -8,6 +8,13 @@
     },
     { 
         "pop": false,
+        "name": "안양 스마트도시 통합플랫폼",
+        "link": "/smartcity-platform/admin/home_welfare.html",
+        "date": "2025.11~01",
+        "note": ""
+    },
+    { 
+        "pop": false,
         "name": "한스타일",
         "link": "",
         "date": "2023.01 ~ 2024.04",

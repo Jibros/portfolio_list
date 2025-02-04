@@ -106,6 +106,13 @@
     },
     { 
         "pop": false,
+        "name": "에누리닷컴 - 조립 PC",
+        "link": "https://www.enuristore.com/index.php",
+        "date": "2020.02 ~ 2020.06",
+        "note": ""
+    },
+    { 
+        "pop": false,
         "name": "에누리닷컴 - 자동차 가격비교 PC",
         "link": "",
         "date": "2021.03 ~ 2022.08",

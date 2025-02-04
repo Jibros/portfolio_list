@@ -1,6 +1,13 @@
 [
     { 
         "pop": false,
+        "name": "운영 업무 유지보수 관리 플랫폼",
+        "link": "/dashboard_flatform/src/index.html",
+        "date": "2025.01",
+        "note": ""
+    },
+    { 
+        "pop": false,
         "name": "한스타일",
         "link": "",
         "date": "2023.01 ~ 2024.04",
